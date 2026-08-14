@@ -6,14 +6,14 @@
       "Dom pedro primeiro",
       "joão que roubou pão na casa do joão",
       "Felipe Gabriel de Oliveira Correa",
-      "Felipe gabriel de Oliveira Corrêa"
+      "Felipe Gabriel de Oliveira Corrêa"
     ],
     "correta": 3,
     "explicacao": "pergunta para meu pai."
   },
   {
     "nivel": "Fácil",
-    "enunciado": "Qual mina cor favorita?",
+    "enunciado": "Qual minha cor favorita?",
     "alternativas": [
       "verde",
       "amarelo",
@@ -25,50 +25,50 @@
   },
   {
     "nivel": "Médio",
-    "enunciado": "Quantos ânus?",
+    "enunciado": "Quantos anos eu tenho?",
     "alternativas": [
       "18",
       "1",
       "10",
-      "1000"
+      "17"
     ],
     "correta": 3,
-    "explicacao": "so tenho 1 cu."
+    "explicacao": "nasci dia 18/08/2008 as 00:31."
   },
   {
     "nivel": "Médio",
-    "enunciado": "Oque eu quero ser quando crescer?",
+    "enunciado": "Quando era criança, oque eu queria ser quando crescer?",
     "alternativas": [
       "Cowboy do faroeste",
       "Astronauta",
       "Rico",
-      "Pai de familia"
+      "Cozinheiro"
     ],
     "correta": 0,
     "explicacao": "Por que gosto de cavalos. Iraaaaaaaaaaaaaa."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "O que é viés em um sistema de inteligência artificial?",
+    "enunciado": "Qual o nome da minha mãe?",
     "alternativas": [
-      "Uma tendência que pode produzir resultados injustos ou distorcidos",
-      "Um recurso usado apenas para aumentar a velocidade da internet",
-      "Uma proteção física instalada no computador",
-      "Um tipo de arquivo de imagem"
+      "Izis",
+      "Marcia",
+      "Luzia Alves de Oliveira",
+      "Dona Ines mendes "
     ],
-    "correta": 0,
-    "explicacao": "O viés pode surgir nos dados, no desenvolvimento ou no uso do sistema."
+    "correta": 2,
+    "explicacao": "Foi minha avó que escolheu."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "Qual princípio contribui para o uso responsável da IA?",
+    "enunciado": "Oque eu estava fazendo dia 11/06/2014 as 22:58?",
     "alternativas": [
-      "Coletar qualquer dado sem autorização",
-      "Ignorar impactos sobre as pessoas",
-      "Usar transparência, privacidade e supervisão humana",
-      "Permitir que a máquina tome todas as decisões sem revisão"
+      "Provavelmente dormindo",
+      "assistindo Carros",
+      "Comendo",
+      "Não sei"
     ],
-    "correta": 2,
-    "explicacao": "O uso responsável envolve transparência, proteção de dados e supervisão humana."
+    "correta": 0,
+    "explicacao": "ta de noite ."
   }
 ]
